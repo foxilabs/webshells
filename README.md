@@ -13,7 +13,7 @@ Educational webshell collection with detection signatures for SOC analysts and s
 - ✅ `rce-shell_exec.php` - Simple command execution via GET parameter
 
 ### Detection Rules
-- ✅ `webshell_detect.yar` - Basic YARA signatures for common patterns
+- ✅ `php-webshell.yar` - Basic YARA signatures for common patterns
 
 ## 🎯 Purpose
 
